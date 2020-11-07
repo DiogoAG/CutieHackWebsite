@@ -1,8 +1,9 @@
-body {
-    background-color: azure;
+.header {
+    background-color: #2D2D2B;
+    text-align: center;
+    padding:20px;
 }
 
-h1 {
-    color: dimgray;
-    margin-left: 20px;
+body {
+    background-color: #F6F5F0;
 }
